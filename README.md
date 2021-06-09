@@ -8,3 +8,7 @@ Fontis has two core contacts. Perpetual vault contract and action contract which
 
 # Security 
 Fontis is built on top of [Opyn Gamma Protocol](https://www.opyn.co/). [Learn more about Opyn security](https://opyn.gitbook.io/opyn/get-started/security). Fontis finance smart contracts had a peer review but not a formal audit yet. Please use at your own risk.
+
+# Current Deployment 
+- Perp Vault: https://etherscan.io/address/0x76200Bff5bD2c2a007380aa596742AA863863557
+- Short Action: https://etherscan.io/address/0x2CCb451bAd6903310aFfF42eC3DbF891488C9Be9
