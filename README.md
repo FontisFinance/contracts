@@ -3,6 +3,9 @@
 
 Fontis creates products with a perpetual position out of instruments with expiries, enabling users to invest in long term strategies without active management.
 
+# Resources
+📕 [Getting Started](https://app.gitbook.com/@fontis/s/fontis/)
+
 # Development 
 Fontis has two core contacts. Perpetual vault contract and action contract which represents the strategy. Current action is short action. 
 
